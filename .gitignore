@@ -1,0 +1,45 @@
+# Arquivos temporários
+*.tmp
+*.temp
+*~
+.DS_Store
+Thumbs.db
+
+# Arquivos de backup
+*.bak
+*.backup
+
+# Dados sensíveis
+dados-confidenciais/
+*.key
+*.pem
+config-local.json
+
+# Arquivos grandes de dados experimentais
+*.raw
+*.dat
+dados-brutos/
+experimentos-grandes/
+
+# Arquivos de sistema
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+logs/
+
+# Arquivos temporários do Office
+~$*.docx
+~$*.xlsx
+~$*.pptx
+
+# Arquivos de cache
+cache/
+.cache/
+
+# Arquivos pessoais
+notas-pessoais/
+rascunhos/
