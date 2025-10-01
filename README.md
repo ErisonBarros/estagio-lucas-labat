@@ -51,7 +51,7 @@ O progresso do estágio será acompanhado através de:
 ## 👥 Equipe
 
 - **Estagiário**: Lucas
-- **Orientador**: [Nome do Orientador]
+- **Orientador**: Erison Rosa de Oliveira Barros
 - **Instituição**: Laboratório de Biotecnologia Aplicada (Labat)
 
 ## 📞 Contato
@@ -60,4 +60,4 @@ Para dúvidas ou sugestões relacionadas ao estágio, entre em contato através 
 
 ---
 
-**Última atualização**: Outubro 2024
+**Última atualização**: Outubro 2025
