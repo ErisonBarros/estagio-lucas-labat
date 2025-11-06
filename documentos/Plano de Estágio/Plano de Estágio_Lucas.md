@@ -23,33 +23,40 @@
 Avaliação de relatório final – 30/09/2023
 Critérios e Formas de Avaliação:
  Cumprimento dos requisitos legais: Verificar se a empresa e a instituição de ensino seguem as normas estabelecidas na Lei do Estágio (nº 11.788/08)[1]. Isso inclui a celebração do termo de compromisso de estágio, a definição das atividades de estágio em consonância com o curso do estudante e a carga horária máxima permitida. (Peso 1)
-insatisfatório
-	1	2	3	4	5
-	excelente
+
+| Insatisfatório | 1     | 2     | 3     | 4     | 5     | Excelente |
+|----------------|-------|-------|-------|-------|-------|-----------|
+|                | [ ]   | [ ]   | [ ]   | [ ]   | [ ]   |           |
+
 Aprendizado e desenvolvimento: Avaliar o grau de aprendizado e desenvolvimento do estagiário durante o período do estágio obrigatório. Isso pode ser feito por meio de relatórios de atividades, feedback do aluno. Também é importante considerar se as atividades realizadas estão alinhadas com os objetivos de aprendizagem do curso. (Peso 3)
+
 insatisfatório
-	1	2	3	4	5
-	excelente
+| Insatisfatório | 1     | 2     | 3     | 4     | 5     | Excelente |
+|----------------|-------|-------|-------|-------|-------|-----------|
+|                | [ ]   | [ ]   | [ ]   | [ ]   | [ ]   |           |
+
 Desempenho nas tarefas atribuídas: Avaliar o desempenho do estagiário nas tarefas atribuídas durante o estágio obrigatório. Isso pode ser feito por meio de avaliações regulares realizadas pelos supervisores de estágio, levando em conta critérios como qualidade do trabalho, cumprimento de prazos e capacidade de resolução de problemas. (Peso 2)
-insatisfatório
-	1	2	3	4	5
-	excelente
+| Insatisfatório | 1     | 2     | 3     | 4     | 5     | Excelente |
+|----------------|-------|-------|-------|-------|-------|-----------|
+|                | [ ]   | [ ]   | [ ]   | [ ]   | [ ]   |           |
+
 Relacionamento interpessoal: Avaliar a capacidade do estagiário de se relacionar e trabalhar em equipe. Isso pode ser observado por meio da interação com colegas de trabalho, supervisores e demais profissionais do laboratório. Também é importante considerar a postura ética e profissional do estagiário no ambiente de trabalho. (Peso 1)
-insatisfatório
-	1	2	3	4	5
-	excelente
+| Insatisfatório | 1     | 2     | 3     | 4     | 5     | Excelente |
+|----------------|-------|-------|-------|-------|-------|-----------|
+|                | [ ]   | [ ]   | [ ]   | [ ]   | [ ]   |           |
+
 Iniciativa e proatividade: Verificar a capacidade do estagiário de assumir responsabilidades, buscar soluções e apresentar ideias para melhorar processos ou contribuir para o crescimento da empresa. Isso pode ser avaliado por meio de exemplos concretos de situações em que o estagiário tenha demonstrado iniciativa e proatividade. (Peso 2)
 
 
+| Insatisfatório | 1     | 2     | 3     | 4     | 5     | Excelente |
+|----------------|-------|-------|-------|-------|-------|-----------|
+|                | [ ]   | [ ]   | [ ]   | [ ]   | [ ]   |           |
 
-
-insatisfatório
-	1	2	3	4	5
-	excelente
 Avaliação do supervisor de estágio: Coletar a avaliação do supervisor de estágio sobre o desempenho e comportamento do estagiário. O supervisor pode fornecer informações valiosas sobre o envolvimento do estagiário nas atividades, o cumprimento das responsabilidades e o desenvolvimento de habilidades específicas. (Informações Obtida por questionário passado pelo aluno.) (Peso 1)
-insatisfatório
-	1	2	3	4	5
-	excelente
+| Insatisfatório | 1     | 2     | 3     | 4     | 5     | Excelente |
+|----------------|-------|-------|-------|-------|-------|-----------|
+|                | [ ]   | [ ]   | [ ]   | [ ]   | [ ]   |           |
+
 
 5. ADEQUAÇÃO DA CONCEDENTE
 A concedente do estágio se adequa à formação cultural e profissional do educando. (Art. 13, I, Resolução 20/2015 – CEPE, alterado pela Resolução 02/2020 – CEPE)
